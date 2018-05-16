@@ -13,6 +13,6 @@ function theBeatlesPlay (musician,instrument) {
       facts[i]+"!!!";
       i++;
       --countdown;
-      return johnLennonFacts
+      return facts
     }
   }
