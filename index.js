@@ -10,7 +10,7 @@ function theBeatlesPlay (musician,instrument) {
     var countdown = facts.length;
     var i = 0;
     while (countdown>0) {
-      facts[i]+"!!!";
+      facts[i] = `${facts[i]}+"!!!"`;
       i++;
       --countdown;
       return facts
