@@ -13,6 +13,6 @@ function theBeatlesPlay (musician,instrument) {
       facts[i] = `${facts[i]}!!!`;
       i++;
       --countdown;
-      return facts
     }
+    return facts
   }
